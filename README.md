@@ -9,3 +9,4 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. Review previous changes with git log
 Hello world I love using git
+Oh yeah I made changes from GitHub
